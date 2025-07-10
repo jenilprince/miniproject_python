@@ -1,0 +1,9 @@
+Date,Product,Category,Units_Sold,Unit_Price,Revenue
+2024-06-01,T-Shirt,Clothing,10,500,5000
+2024-06-01,Headphones,Electronics,5,2000,10000
+2024-06-02,Jeans,Clothing,7,1200,8400
+2024-06-02,Laptop,Electronics,2,50000,100000
+2024-06-03,T-Shirt,Clothing,12,500,6000
+2024-06-03,Microwave,Electronics,3,8000,24000
+2024-06-04,T-Shirt,Clothing,8,500,4000
+2024-06-04,Headphones,Electronics,6,2000,12000
