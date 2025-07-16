@@ -1,0 +1,6 @@
+print(5==5.0)
+print(5+5.00)
+print(5%5.00)
+print(5//5.00)
+print(5*5.0)
+print(5/5.0)
